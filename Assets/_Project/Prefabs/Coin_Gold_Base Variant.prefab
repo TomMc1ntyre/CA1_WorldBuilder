@@ -117,5 +117,5 @@ MonoBehaviour:
   spinSpeed: 90
   bobHeight: 0.25
   bobSpeed: 2
-  pickupSound: {fileID: 0}
-  pickupEffectPrefab: {fileID: 0}
+  pickupSound: {fileID: 8300000, guid: 8a1f3dad6e8c5864dbdd0fbc4f815ddd, type: 3}
+  pickupEffectPrefab: {fileID: 3017969232988744360, guid: 0fa633be47fe1104d87d13e098a2d105, type: 3}
